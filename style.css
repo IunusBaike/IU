@@ -5,3 +5,11 @@
     border-radius: 50%;
     margin: 40px auto;
 }
+
+.box {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 20px;
+    margin: 40px auto;
+}
